@@ -1,4 +1,4 @@
-# ragemp-simple-proxy
+# rage-simple-proxy
 
 Simple Proxy Server for RAGE:Multiplayer. This tool provides UDP and TCP proxy services for game and file servers, allowing users to enjoy the game seamlessly.
 
