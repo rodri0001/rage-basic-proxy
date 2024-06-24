@@ -1,0 +1,26 @@
+{
+  "name": "rage-simple-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/main.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodri0001/rage-simple-proxy"
+  },
+  "author": {
+    "name": "Hakan",
+    "url": "https://github.com/rodri0001"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "start": "node src/main.js",
+    "start:dev": "nodemon src/main.js"
+  },
+  "dependencies": {
+    "node-tcp-proxy": "^0.0.28",
+    "udp-proxy": "^1.2.0"
+  }
+}
